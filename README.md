@@ -23,7 +23,7 @@ This love calculator is completely mobile friendly.
 ```
 ## License
 
-[MIT]()
+[MIT](https://github.com/BipronathSaha99/lovecalculator/blob/main/LICENSE)
 
   
 ## Authors
